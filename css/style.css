@@ -24,7 +24,7 @@ h1 {
 	margin: 0;
 	color: initial;
 	font-weight: 700;
-	text-rendering: optimizeLegibility;
+	/* text-rendering: optimizeLegibility; */
 	text-align: center;
 	line-height: 1.1;
 	border-bottom: 0;
