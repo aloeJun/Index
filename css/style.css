@@ -25,8 +25,6 @@ h1 {
 	color: initial;
 	font-weight: 700;
 	text-rendering: optimizeLegibility;
-	text-align: center !important;
-	text-align: -webkit-center;
 	line-height: 1.1;
 	border-bottom: 0;
 }
@@ -62,6 +60,7 @@ h1 {
 .index-module--title {
 	font-family: AmaticSC-Regular;
 	font-size: 4rem;
+	text-align: center;
 }
 
 .index-module--link-to-other-page {
