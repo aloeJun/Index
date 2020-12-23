@@ -46,7 +46,7 @@ h1 {
 
 .index-module--main:after {
 	content: "";
-	background-image: url('https://cdn.jsdelivr.net/gh/ialoe/Index@master/img/background-image.jpg');
+	background-image: url('https://cdn.jsdelivr.net/gh/ialoe/Index@master/img/background-image.webp');
 	background-position: 50%;
 	background-size: cover;
 	top: 0;
