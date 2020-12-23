@@ -25,7 +25,8 @@ h1 {
 	color: initial;
 	font-weight: 700;
 	text-rendering: optimizeLegibility;
-	text-align: center;
+	text-align: center !important;
+	text-align: -webkit-center;
 	line-height: 1.1;
 	border-bottom: 0;
 }
@@ -36,7 +37,6 @@ h1 {
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	text-align: center;
 }
 
 .index-module--main p {
