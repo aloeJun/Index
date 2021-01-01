@@ -109,29 +109,3 @@ h1 {
 	text-align: center;
 	color: #eee
 }
-
-/* 背景音乐样式 */
-/* 是否隐藏歌词 */
-.aplayer .aplayer-lrc p {
-	display: none;
-	font-size: 12px;
-	font-weight: 700;
-	line-height: 16px !important;
-}
-
-/* 是否隐藏歌词 */
-.aplayer .aplayer-lrc p.aplayer-lrc-current {
-	display: none;
-	font-size: 15px;
-	/* 歌词颜色 */
-	color: '#42b983';
-}
-
-/* 自动隐藏 */
-.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
-	left: -66px !important;
-}
-
-.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
-	left: 0px !important;
-}
